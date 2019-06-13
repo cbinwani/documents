@@ -6,6 +6,12 @@ jQuery and ASP.NET Core + Angular versions beginning from v4.1. See
 
 The change logs in this page are just a summary of major changes. Detailed release notes are shared on the Github repository (only available to the customers).
 
+## v7.0.0 (2019-06-03)
+
+* Upgraded to Metronic v6.
+* Upgraded to Angular v8.
+* Upgraded to Xamarin.Forms v4.
+
 ## v6.9.0 (2019-04-02)
 
 * Use WebPack instead of gulp to bundle assets for MVC app
@@ -106,8 +112,8 @@ The change logs in this page are just a summary of major changes. Detailed relea
 * Allow changing primary theme color.
 * Improved Accessibility.
 * Entity Change History User Interface.
-* Rad Tool: Regenerating an entity.
-* Rad Tool: Selecting an entity from database (SQL Server & MySql).
+* Power Tools: Regenerating an entity.
+* Power Tools: Selecting an entity from database (SQL Server & MySql).
 * Upgraded to Angular v6.0. 
 * Bug fixes and enhancements.
 
@@ -122,7 +128,7 @@ The change logs in this page are just a summary of major changes. Detailed relea
 
 ## v5.2.0 (2018-02-20)
 
-* Enum and templating support for the RAD tool.
+* Enum and templating support for the Power Tools.
 * Upgraded to angular v5.2.5 and angular-cli to v1.7.
 * Bug fixes and enhancements.
 
